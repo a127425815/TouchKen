@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @class Ken;
+
+// this is protocol
 @protocol KenDelegate <NSObject>
 
 @optional   //註解掉的話主程式必須要有下列程式
